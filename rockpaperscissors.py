@@ -24,5 +24,7 @@ elif player_one == "paper" and computer == "rock":
 elif player_one == "scissors" and computer == "paper":
         print("player one wins ")
 else:
-    print("Computer wins")			
+    print("Computer wins")	
+
+print("i'm trying to commit")		
 				

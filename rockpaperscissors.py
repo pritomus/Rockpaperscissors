@@ -26,5 +26,6 @@ elif player_one == "scissors" and computer == "paper":
 else:
     print("Computer wins")	
 
-print("i'm trying to commit")		
+print("i'm trying to commit")
+print("trying to add a new commit")		
 				
